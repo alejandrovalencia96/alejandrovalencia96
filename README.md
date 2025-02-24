@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🎓System Ingenier<br>🔭 Working at Omni.pro<br>🌱 Frontend developer. Vue & Angular <br>⚡Running & Lifting weights
+🎓System Engineering<br>🔭 Working at Omni.pro<br>🌱 Frontend developer. Vue & Angular <br>⚡Running & Lifting weights
 
 ## 🌐 Socials
 
